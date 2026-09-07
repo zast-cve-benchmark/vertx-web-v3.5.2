@@ -1,0 +1,2 @@
+# ZAST: exclude .zast/ from git archive output (kept tracked in the repo)
+.zast/ export-ignore
